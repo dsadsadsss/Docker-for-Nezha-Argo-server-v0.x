@@ -22,7 +22,7 @@ F大原版简单修改，参数一致,可以直接把镜像替换成这个，已
 
 #### docker镜像(默认面板端口80):
 ```
-daxia2023/nezser:latest
+ghcr.io/woshizaiyu/docker-for-nezha-argo-server-v0.x:36454e1
 ```
 
 建议利用action制作自己的镜像，同一个镜像使用者多了有些网站会封
